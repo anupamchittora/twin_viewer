@@ -1,7 +1,7 @@
-fastapi==0.116.1
-uvicorn==0.29.0
-requests==2.31.0
-python-dotenv==1.0.1
-azure-cognitiveservices-speech==1.44.0
-azure-kusto-data==5.0.3
-pydantic==1.10.12
+fastapi
+uvicorn
+requests
+python-dotenv
+azure-cognitiveservices-speech
+azure-kusto-data
+pydantic
